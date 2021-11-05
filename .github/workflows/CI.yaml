@@ -61,7 +61,7 @@ jobs:
       shell: bash -l {0}
 
       run: |
-        pytest -v --cov=test_uibcdf_library --cov-report=xml --color=yes test_uibcdf_library/tests/
+        pytest -v --cov=test_upload_to_conda --cov-report=xml --color=yes test_upload_to_conda/tests/
 
     - name: CodeCov
       uses: codecov/codecov-action@v1
