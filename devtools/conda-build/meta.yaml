@@ -1,5 +1,5 @@
 package:
-  name: test_uibcdf_library
+  name: test_upload_to_conda
   version:  "{{ environ['GIT_DESCRIBE_TAG'] }}"
 
 source:
@@ -20,7 +20,7 @@ requirements:
     - pyyaml
 
 about:
-  home: https://uibcdf.org
+  home: https://github.com/Daniel-Ibarrola/TestUploadToConda
   license: MIT License
   summary: ""
   description: |

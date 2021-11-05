@@ -21,8 +21,8 @@ except:
 
 setup(
     name='test_upload_to_conda',
-    author='UIBCDF Lab',
-    author_email='uibcdf@gmail.com',
+    author='Daniel',
+    author_email='dis96051@gmail.com',
     version=versioneer.get_version(),
     cmdclass=versioneer.get_cmdclass(),
     package_dir={'test_upload_to_conda': 'test_upload_to_conda'},

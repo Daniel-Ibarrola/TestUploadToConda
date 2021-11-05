@@ -1,5 +1,5 @@
 """
-Test_UIBCDF_Library
+Test_Upload_To_Conda
 This must be a short description of the project
 """
 
